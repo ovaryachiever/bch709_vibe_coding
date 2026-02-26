@@ -1,0 +1,6 @@
+name: bch709-gasch-r
+channels:
+  - conda-forge
+dependencies:
+  - r-base>=4.3
+  - r-ggplot2
