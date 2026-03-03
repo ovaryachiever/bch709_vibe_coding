@@ -1,0 +1,40 @@
+Task: Download the UCSC Saccharomyces cerevisiae mRNA FASTA file and compute GC-content statistics for every transcript.
+
+Data acquisition:
+
+`curl -L -o data/mrna.fa.gz   https://hgdownload.soe.ucsc.edu/goldenPath/sacCer3/bigZips/mrna.fa.gz`
+`curl -L -o data/sacCer3.fa.gz https://hgdownload.soe.ucsc.edu/goldenPath/sacCer3/bigZips/sacCer3.fa.gz`
+
+FASTA format example:
+`>BC001547 /gb=BC001547 /gi=12654078 /ug=Sc.3456 /len=1254`
+followed by the sequence lines.
+
+Processing requirements:
+
+1. Read `data/mrna.fa.gz` directly (it’s gzipped).
+2. For each record extract:
+   - accession (the first token after `>` before any whitespace, e.g. BC001547),
+   - length (computed from the sequence or taken from `/len=` if you prefer – they should agree),
+   - gc_content = (G + C) / (sequence length) as a floating-point number with 4 decimal places.
+3. Write a tab-separated file `results/mrna_metrics.tsv` with header
+   `accession\tlength\tgc_content` and one row per transcript, sorted by gc_content descending.
+
+Plotting specifications:
+
+- Generate a histogram of the GC-content values (range 0–1).
+- Overlay a density curve on top of the histogram.
+- Mark the mean and median with vertical dashed lines.
+- Add a caption to the figure containing: n, mean, median and sd of the GC-content distribution.
+- Save the plot as `results/gc_content_distribution.png` with dimensions 1600×900 pixels at 200 dpi.
+
+Output:
+
+- `results/mrna_metrics.tsv` (TSV sorted by gc_content desc)
+- `results/gc_content_distribution.png` (histogram meeting the above specs)
+
+Extras:
+
+- Use any language you like (e.g. Python with pandas/matplotlib or R).
+- Ensure all directories exist or create them.
+
+This prompt should be self-contained so an assistant can produce working code in one pass.
