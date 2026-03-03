@@ -1,0 +1,201 @@
+gene_id	gene_name	mean_expr	sd_expr	cv
+YER017C	YER017C   AFG3       PROTEIN DEGRADATION                     MITOCHONDRIAL METALLOPROTEASE           S0000819	0.0000	0.4427	1219416960895028480.0000
+YHR083W	YHR083W              UNKNOWN                                 UNKNOWN                                 S0001125	-0.0001	0.3773	3415.4939
+YGL261C	YGL261C              UNKNOWN                                 UNKNOWN; SIMILAR TO PAU1P AND MEMBERS OFS0003230	0.0002	0.5443	3247.0034
+YBR102C	YBR102C              UNKNOWN                                 EXOCYTOSIS (PUTATIVE)                   S0000306	0.0002	0.3967	2248.1617
+YBL065W	YBL065W              UNKNOWN                                 UNKNOWN                                 S0000161	-0.0004	0.7381	2017.5727
+YJR120W	YJR120W              UNKNOWN                                 UNKNOWN                                 S0003881	-0.0003	0.5705	1635.4417
+YKL108W	YKL108W   SLD2       DNA REPLICATION                         UNKNOWN; INTERACTS WITH DPB11P          S0001591	-0.0003	0.4690	1432.1770
+YOL104C	YOL104C   NDJ1       MEIOSIS, CHROMOSOME SEGREGATION         UNKNOWN                                 S0005464	0.0006	0.6912	1161.2778
+YNR035C	YNR035C   ARC35      CYTOSKELETON                            CORTICAL ACTIN PATCH INTEGRITY          S0005318	-0.0006	0.5930	1058.4678
+YHR034C	YHR034C              UNKNOWN                                 UNKNOWN                                 S0001076	0.0006	0.6093	952.7032
+YER185W	YER185W              UNKNOWN                                 UNKNOWN; SIMILAR TO RTM1P               S0000987	-0.0009	0.6774	764.3526
+YPL174C	YPL174C   NIP100     NUCLEAR PROTEIN TARGETING               (PUTATIVE) LARGE SUBUNIT OF DYNACTIN COMS0006095	0.0011	0.6748	595.1926
+YJR046W	YJR046W   TAH11      UNKNOWN                                 UNKNOWN                                 S0003807	0.0012	0.6729	561.8528
+YFR020W	YFR020W              UNKNOWN                                 UNKNOWN                                 S0001916	-0.0008	0.4406	551.6054
+YDL080C	YDL080C   THI3       THIAMINE METABOLISM                     ALPHA-KETOISOCAPROATE CARBOXYLASE       S0002238	-0.0008	0.4284	542.5973
+YGR226C	YGR226C              UNKNOWN                                 UNKNOWN                                 S0003458	0.0017	0.8670	512.0543
+YOL038W	YOL038W   PRE6       PROTEIN DEGRADATION                     20S PROTEASOME SUBUNIT (ALPHA4)         S0005398	0.0014	0.6716	489.1924
+YMR086C-A	YMR086C-A            UNKNOWN                                 UNKNOWN                                 S0004691	-0.0010	0.4817	485.0697
+YJR151C	YJR151C              UNKNOWN                                 UNKNOWN                                 S0003912	0.0008	0.3095	409.4782
+YDR174W	YDR174W   HMO1       CHROMATIN STRUCTURE                     NON-HISTONE PROTEIN                     S0002581	-0.0015	0.5847	396.6986
+YLR122C	YLR122C              UNKNOWN                                 UNKNOWN                                 S0004112	0.0020	0.7696	385.9848
+YNR023W	YNR023W   SNF12      TRANSCRIPTION                           COMPONENT OF SWI/SNF GLOBAL ACTIVATOR COS0005306	-0.0010	0.3656	381.4175
+YAL018C	YAL018C              UNKNOWN                                 UNKNOWN                                 S0000016	-0.0021	0.7342	344.0253
+YGL127C	YGL127C   SOH1       UNKNOWN                                 UNKNOWN; SIMILAR TO RNA POLYMERASES     S0003095	0.0014	0.4563	321.5513
+YBR208C	YBR208C   DUR1,2     NITROGEN, AMINO ACID, NUCLEOTIDE METABOLUREA AMIDOLYASE                         S0000412	-0.0020	0.6261	318.7215
+YHR166C	YHR166C   CDC23      MITOSIS                                 ANAPHASE PROMOTING COMPLEX SUBUNIT      S0001209	0.0013	0.3969	317.5431
+YNL289W	YNL289W   PCL1       CELL CYCLE                              G1/S CYCLIN                             S0005233	0.0013	0.4078	315.1298
+YGL086W	YGL086W   MAD1       CELL CYCLE                              SPINDLE CHECKPOINT COMPLEX SUBUNIT      S0003054	0.0017	0.4990	294.2207
+YDR308C	YDR308C   SRB7       TRANSCRIPTION                           RNA POLYMERASE II MEDIATOR SUBUNIT      S0002716	-0.0013	0.3655	281.0632
+YMR303C	YMR303C   ADH2       GLYCOLYSIS                              ALCOHOL DEHYDROGENASE II                S0004918	-0.0024	0.6536	268.0069
+YKL175W	YKL175W              UNKNOWN                                 UNKNOWN                                 S0001658	0.0018	0.4631	260.9048
+YLR094C	YLR094C   GIS3       UNKNOWN                                 UNKNOWN                                 S0004084	-0.0020	0.5197	260.6414
+YDR089W	YDR089W              UNKNOWN                                 UNKNOWN                                 S0002496	-0.0023	0.5800	249.6122
+YLL043W	YLL043W   FPS1       TRANSPORT                               GLYCEROL CHANNEL PROTEIN                S0003966	0.0013	0.3173	246.1488
+YDL159W	YDL159W   STE7       SIGNALING, PHEROMONE AND PSEUDOHYPHAL GRMAPKK (MITOGEN-ACTIVATED PROTEIN KINASE S0002318	0.0013	0.3094	243.5200
+YBL051C	YBL051C              UNKNOWN                                 UNKNOWN; SIMILAR TO RNA-BINDING PROTEINSS0000147	-0.0020	0.4694	237.4776
+YGL210W	YGL210W   YPT32      SECRETION                               RAS-LIKE GTPASE                         S0003178	0.0019	0.4535	234.2739
+YER190W	YER190W   YRF1-2     UNKNOWN                                 Y' HELICASE (SUBTELOMERICALLY-ENCODED)  S0000992	-0.0022	0.5123	228.7201
+YNR050C	YNR050C   LYS9       LYSINE BIOSYNTHESIS                     SACCHAROPINE DEHYDROGENASE              S0005333	0.0050	1.1187	224.0069
+YMR112C	YMR112C   MED11      TRANSCRIPTION                           RNA POLYMERASE II MEDIATOR SUBUNIT      S0004718	-0.0019	0.4147	222.8995
+YGR270W	YGR270W   YTA7       PROTEIN DEGRADATION                     26S PROTEASOME SUBUNIT; ATPASE          S0003502	0.0016	0.3568	221.0775
+YJR108W	YJR108W              UNKNOWN                                 UNKNOWN                                 S0003869	-0.0024	0.5380	220.8789
+YMR165C	YMR165C   SMP2       RESPIRATION; PLASMID MAINTENANCE        UNKNOWN                                 S0004775	0.0026	0.5572	216.5372
+YKR007W	YKR007W              UNKNOWN                                 UNKNOWN                                 S0001715	0.0019	0.4102	214.5234
+YLR253W	YLR253W              UNKNOWN                                 UNKNOWN; SIMILAR TO ABC1P               S0004243	0.0018	0.3842	212.3322
+YOR353C	YOR353C              UNKNOWN                                 UNKNOWN; SIMILAR TO ADENYLATE CYCLASES  S0005880	0.0020	0.4198	205.2234
+YDR151C	YDR151C   CTH1       UNKNOWN                                 UNKNOWN                                 S0002558	0.0022	0.4488	204.0207
+YNL070W	YNL070W   TOM7       MITOCHONDRIAL PROTEIN TARGETING         SMALL SUBUNIT OF TRANSLOCASE            S0005014	-0.0026	0.5214	203.2294
+YKL114C	YKL114C   APN1       DNA REPAIR                              APURINIC/APYRIMIDINIC ENDONUCLEASE      S0001597	-0.0019	0.3738	200.9292
+YKL203C	YKL203C   TOR2       SIGNALING, CELL CYCLE, MEIOSIS AND ACTINPHOSPHATIDYLINOSITOL 3-KINASE           S0001686	0.0023	0.4645	200.1002
+YGR180C	YGR180C   RNR4       DNA REPLICATION                         RIBONUCLEOTIDE REDUCTASE                S0003412	0.0039	0.7635	194.2524
+YHR033W	YHR033W              UNKNOWN                                 UNKNOWN; SIMILAR TO PRO1P               S0001075	0.0050	0.9653	191.9459
+YNL158W	YNL158W              UNKNOWN                                 UNKNOWN                                 S0005102	0.0019	0.3541	187.8074
+YBR262C	YBR262C              UNKNOWN                                 UNKNOWN                                 S0000466	-0.0025	0.4735	187.2140
+YMR154C	YMR154C   RIM13      SPORULATION                             PROTEOLYTIC PROCESSING OF RIM1P         S0004763	-0.0024	0.4305	180.0715
+YBL098W	YBL098W              UNKNOWN                                 UNKNOWN; SIMILAR TO BACTERIAL NADP/NAD-DS0000194	0.0030	0.5300	177.0323
+YBR136W	YBR136W   ESR1       DNA REPAIR AND RECOMBINATION            PI KINASE HOMOLOG                       S0000340	-0.0027	0.4705	176.9436
+YDR510W	YDR510W   SMT3       PROTEIN DEGRADATION                     UBIQUITIN-LIKE PROTEIN                  S0002918	0.0026	0.4426	171.9918
+YMR237W	YMR237W              UNKNOWN                                 UNKNOWN; SIMILAR TO CHS6P/CSD3P         S0004850	0.0037	0.6082	164.9295
+YBR002C	YBR002C   RER2       PROTEIN GLYCOSYLATION                   CIS-PRENYTRANSFERASE                    S0000206	0.0028	0.4479	161.4362
+YOR372C	YOR372C   NDD1       MITOSIS (PUTATIVE)                      UNKNOWN                                 S0005899	0.0023	0.3724	161.3867
+YDR419W	YDR419W   RAD30      DNA REPAIR                              UNKNOWN                                 S0002827	0.0029	0.4717	161.2860
+YFL006W	YFL006W              UNKNOWN                                 UNKNOWN                                 S0001888	-0.0030	0.4677	156.5057
+YBR148W	YBR148W   YSW1       UNKNOWN                                 SPORE SPECIFIC                          S0000352	0.0042	0.6498	156.4947
+YOL086C	YOL086C   ADH1       GLYCOLYSIS                              ALCOHOL DEHYDROGENASE I                 S0005446	0.0050	0.7055	142.1072
+YIL138C	YIL138C   TPM2       CYTOSKELETON                            TROPOMYOSIN                             S0001400	0.0048	0.6682	139.6043
+YER005W	YER005W   YND1       PROTEIN GLYCOSYLATION (PUTATIVE)        APYRASE (NDPASE/NTPASE)                 S0000807	0.0027	0.3711	138.0181
+YBR196C	YBR196C   PGI1       GLYCOLYSIS                              GLUCOSE-6-PHOSPHATE ISOMERASE           S0000400	-0.0051	0.6948	137.3753
+YGR087C	YGR087C   PDC6       GLYCOLYSIS                              PYRUVATE DECARBOXYLASE 3                S0003319	-0.0067	0.8899	133.7362
+YPL139C	YPL139C   UME1       MEIOSIS                                 TRANSCRIPTION FACTOR                    S0006060	0.0037	0.4865	130.5565
+YDR281C	YDR281C              UNKNOWN                                 UNKNOWN                                 S0002689	-0.0080	1.0334	129.7142
+YPR037C	YPR037C              UNKNOWN                                 UNKNOWN; SIMILAR TO ERV1P AND RAT ALR PRS0006241	0.0035	0.4497	129.6867
+YNL165W	YNL165W              UNKNOWN                                 UNKNOWN                                 S0005109	0.0042	0.5327	126.1693
+YDR163W	YDR163W              UNKNOWN                                 UNKNOWN                                 S0002570	-0.0035	0.4350	124.8036
+YMR066W	YMR066W   SOV1       RESPIRATION (PUTATIVE)                  UNKNOWN; SYNTHESIS OF VAR               S0004670	0.0029	0.3545	123.7343
+YLL006W	YLL006W   MMM1       MITOCHONDRIAL BIOGENESIS                (PUTATIVE) COMPONENT OF ACTIN BINDING PRS0003929	-0.0043	0.5319	123.5163
+YOR331C	YOR331C              UNKNOWN                                 UNKNOWN                                 S0005858	-0.0047	0.5761	123.2409
+YDR006C	YDR006C   SOK1       UNKNOWN                                 SUPPRESSOR OF A CAMP-DEPENDENT PROTEIN KS0002413	0.0043	0.5182	121.6838
+YNL167C	YNL167C   SKO1       TRANSCRIPTION                           CREB-LIKE TRANSCRIPTIONAL REPRESSOR     S0005111	-0.0036	0.4356	121.2416
+YJL083W	YJL083W              UNKNOWN                                 UNKNOWN; SIMILAR TO IRS4P               S0003619	0.0048	0.5662	118.8238
+YOR357C	YOR357C   GRD19      SECRETION                               GOLGI PROTEIN RETENTION                 S0005884	-0.0048	0.5638	117.2474
+YGL215W	YGL215W   CLG1       CELL CYCLE                              CYCLIN-LIKE (PHO85P)                    S0003183	-0.0041	0.4804	117.0598
+YDR051C	YDR051C              UNKNOWN                                 UNKNOWN                                 S0002458	-0.0035	0.4099	116.5466
+YOR358W	YOR358W   HAP5       RESPIRATION                             TRANSCRIPTION FACTOR                    S0005885	0.0040	0.4619	115.8419
+YNL245C	YNL245C              UNKNOWN                                 UNKNOWN                                 S0005189	-0.0033	0.3746	114.6406
+YMR290W-A	YMR290W-A            UNKNOWN                                 UNKNOWN                                 S0004904	0.0073	0.8276	113.9900
+YJR020W	YJR020W              UNKNOWN                                 UNKNOWN                                 S0003781	0.0067	0.7575	112.9428
+YPL218W	YPL218W   SAR1       SECRETION                               GTP-BINDING PROTEIN OF THE ARF FAMILY   S0006139	0.0043	0.4850	112.8263
+YGL100W	YGL100W   SEH1       NUCLEAR PROTEIN TARGETING               NUCLEAR PORE PROTEIN                    S0003068	-0.0034	0.3864	112.4555
+YPL208W	YPL208W              UNKNOWN                                 UNKNOWN                                 S0006129	0.0058	0.6543	112.3343
+YDR323C	YDR323C   PEP7       VACUOLAR PROTEIN TARGETING              VACUOLAR SEGREGATION PROTEIN            S0002731	-0.0049	0.5356	110.2261
+YDL172C	YDL172C              UNKNOWN                                 UNKNOWN                                 S0002331	-0.0035	0.3901	109.8951
+YJL160C	YJL160C              UNKNOWN                                 UNKNOWN; SIMILAR TO MEMBERS OF THE PIR1PS0003696	-0.0070	0.7642	108.9654
+YDR352W	YDR352W              UNKNOWN                                 UNKNOWN                                 S0002760	0.0037	0.4040	108.1133
+YLR364W	YLR364W              UNKNOWN                                 UNKNOWN; SIMILAR TO YEAST GLUTAREDOXIN-LS0004356	0.0050	0.5405	108.0995
+YOR076C	YOR076C              UNKNOWN                                 UNKNOWN                                 S0005602	-0.0052	0.5560	106.5898
+YHR060W	YHR060W   VMA22      VACUOLAR ACIDIFICATION                  VACUOLAR H+-ATPASE ASSEMBLY PROTEIN     S0001102	-0.0047	0.4999	106.5375
+YLR421C	YLR421C              UNKNOWN                                 UNKNOWN                                 S0004413	0.0046	0.4831	106.1677
+YPR071W	YPR071W              UNKNOWN                                 UNKNOWN; SIMILAR TO YIL029P (GB:Z49219) S0006275	0.0042	0.4463	106.0018
+YOR363C	YOR363C   PIP2       PEROXISOME PROLIFERATION                TRANSCRIPTION FACTOR                    S0005890	-0.0052	0.5457	104.7981
+YNL171C	YNL171C              UNKNOWN                                 UNKNOWN                                 S0005115	-0.0030	0.3144	104.5922
+YJL216C	YJL216C              UNKNOWN                                 UNKNOWN; SIMILAR TO MAL62P (GLUCOSIDASE S0003752	-0.0054	0.5506	102.5691
+YBR033W	YBR033W              UNKNOWN                                 UNKNOWN; SIMILAR TO TRANSCRIPTION FACTORS0000237	0.0049	0.4958	102.1207
+YBR229C	YBR229C   ROT2       CYTOSKELETON                            GLUCOSIDASE II                          S0000433	0.0047	0.4769	100.4214
+YIL154C	YIL154C   IMP2'      STRESS RESPONSE                         TRANSCRIPTIONAL REPRESSOR               S0001416	-0.0054	0.5372	98.8747
+YOR157C	YOR157C   PUP1       PROTEIN DEGRADATION                     20S PROTEASOME SUBUNIT (BETA2)          S0005683	-0.0064	0.6152	96.3903
+YNL190W	YNL190W              UNKNOWN                                 UNKNOWN                                 S0005134	-0.0055	0.5271	95.8360
+YOL114C	YOL114C              UNKNOWN                                 UNKNOWN; SIMILAR TO HUMAN DS-1 PROTEIN  S0005474	-0.0050	0.4817	95.5546
+YPR197C	YPR197C              UNKNOWN                                 UNKNOWN                                 S0006401	0.0050	0.4732	95.5343
+YFL031W	YFL031W   HAC1       UNFOLDED PROTEIN RESPONSE               TRANSCRIPTION FACTOR                    S0001863	0.0069	0.6616	95.5216
+YPR111W	YPR111W   DBF20      CELL CYCLE                              M PHASE; PROTEIN KINASE                 S0006315	-0.0045	0.4244	94.6160
+YPR195C	YPR195C              UNKNOWN                                 UNKNOWN                                 S0006399	0.0058	0.5405	93.0513
+YBR110W	YBR110W   ALG1       PROTEIN GLYCOSYLATION                   BETA-1,4-MANNOSYLTRANSFERASE            S0000314	-0.0051	0.4728	92.8300
+YDL052C	YDL052C   SLC1       PHOSPHOLIPID METABOLISM                 FATTY ACYLTRANSFERASE                   S0002210	-0.0062	0.5769	92.5020
+YGL126W	YGL126W   SCS3       PHOSPHOLIPID METABOLISM                 INOSITOL PHOSPHOLIPID BIOSYNTHESIS      S0003094	-0.0062	0.5741	91.9612
+YJR055W	YJR055W   HIT1       UNKNOWN                                 REQUIRED FOR GROWTH AT HIGH TEMPERATURE S0003816	-0.0056	0.5153	91.8253
+YMR031W-A	YMR031W-A            UNKNOWN                                 UNKNOWN                                 S0004634	0.0074	0.6763	91.6457
+YBL089W	YBL089W              UNKNOWN                                 MAJOR FACILITATOR SUPERFAMILY           S0000185	0.0039	0.3607	91.5201
+YMR289W	YMR289W              UNKNOWN                                 UNKNOWN                                 S0004902	-0.0044	0.4019	90.5373
+YDL192W	YDL192W   ARF1       SECRETION                               ADP-RIBOSYLATION FACTOR                 S0002351	-0.0072	0.6492	90.1085
+YPR161C	YPR161C   SGV1       CELL CYCLE                              PROTEIN KINASE                          S0006365	-0.0037	0.3302	89.2555
+YPR084W	YPR084W              UNKNOWN                                 UNKNOWN                                 S0006288	0.0049	0.4310	88.5619
+YBR103W	YBR103W              UNKNOWN                                 UNKNOWN                                 S0000307	0.0045	0.3979	88.3594
+YDL246C	YDL246C              UNKNOWN                                 UNKNOWN; SIMILAR TO SOR1P (SOR1 AND YDL2S0002405	0.0066	0.5773	88.0064
+YMR151W	YMR151W   YIM2       UNKNOWN                                 UNKNOWN                                 S0004759	0.0052	0.4472	86.6253
+YBR236C	YBR236C   ABD1       MRNA CAPPING                            MRNA CAP METHYLTRANSFERASE              S0000440	-0.0044	0.3796	86.6155
+YLR116W	YLR116W   MSL5       MRNA SPLICING                           BRANCHPOINT BRIDGING PROTEIN (COMMITMENTS0004106	0.0047	0.4027	86.4650
+YDR283C	YDR283C   GCN2       PROTEIN SYNTHESIS                       EIF2ALPHA KINASE                        S0002691	-0.0049	0.4257	86.2527
+YIL161W	YIL161W              UNKNOWN                                 UNKNOWN                                 S0001423	-0.0061	0.5205	85.9129
+YHL038C	YHL038C   CBP2       MRNA SPLICING, COB MRNA                 PRE-MRNA BINDING PROTEIN                S0001030	-0.0041	0.3431	83.1923
+YEL063C	YEL063C   CAN1       TRANSPORT                               BASIC AMINO ACID PERMEASE               S0000789	0.0090	0.7351	82.1207
+YGL074C	YGL074C              UNKNOWN                                 UNKNOWN                                 S0003042	0.0059	0.4782	81.1172
+YLL063C	YLL063C   AYT1       UNKNOWN                                 TRANSACETYLASE (PUTATIVE)               S0003986	-0.0064	0.5177	80.4711
+YAL069W	YAL069W              UNKNOWN                                 UNKNOWN                                 S0002143	0.0060	0.4788	80.3143
+YPR040W	YPR040W              UNKNOWN                                 UNKNOWN                                 S0006244	0.0068	0.5411	80.0979
+YHR038W	YHR038W   FIL1       PROTEIN SYNTEHSIS                       ROBOSOMAL PROTEIN, MITOCHONDRIAL (PUTATIS0001080	0.0055	0.4353	79.7361
+YOR336W	YOR336W   KRE5       CELL WALL BIOGENESIS                    UNKNOWN; ER RESIDENT GLYCOPROTEIN       S0005863	0.0062	0.4939	79.0308
+YKL032C	YKL032C   IXR1       TRANSCRIPTION, OXYGEN-DEPENDENT         HMG-TRANSCRIPTION FACTOR                S0001515	0.0046	0.3631	78.5234
+YDL193W	YDL193W              UNKNOWN                                 UNKNOWN                                 S0002352	-0.0076	0.5935	78.0843
+YMR019W	YMR019W   STB4       TRANSCRIPTION                           SIN3-BINDING PROTEIN                    S0004621	0.0077	0.5962	77.6852
+YGL040C	YGL040C   HEM2       HEME BIOSYNTHESIS                       PORPHOBILINOGEN SYNTHASE                S0003008	0.0057	0.4412	77.5346
+YGR047C	YGR047C   TFC4       TRANSCRIPTION                           TFIIIC 131 KD SUBUNIT                   S0003279	-0.0051	0.3909	77.1836
+YBR163W	YBR163W              UNKNOWN                                 UNKNOWN; SIMILAR TO PTA1P               S0000367	0.0066	0.5013	76.0797
+YOL075C	YOL075C              UNKNOWN                                 PUTATIVE ATP-DEPENDENT TRANSPORTER      S0005435	-0.0053	0.4040	75.6667
+YHR043C	YHR043C   DOG2       2-DEOXYGLUCOSE RESISTANCE               2-DEOXYGLUCOSE-6-PHOSPHATE PHOSPHATASE  S0001085	0.0106	0.7963	75.1054
+YGL251C	YGL251C   HFM1       UNKNOWN                                 DNA/RNA HELICASE, PUTATIVE              S0003220	-0.0065	0.4900	74.9492
+YPR046W	YPR046W   MCM16      MITOSIS,CHROMOSOME SEGREGATION          UNKNOWN                                 S0006250	-0.0064	0.4647	73.0669
+YGR275W	YGR275W   RTT102     TRANSPOSITION (PUTATIVE)                UNKNOWN; REGULATOR OF TY1 TRANSPOSITION S0003507	-0.0068	0.4866	71.7109
+YGL200C	YGL200C   EMP24      SECRETION                               VESICLE COAT COMPONENT                  S0003168	-0.0082	0.5848	71.3013
+YPR054W	YPR054W   SMK1       SPORULATION                             MAP KINASE                              S0006258	-0.0071	0.5023	71.0951
+YAL064C-A	YAL064C-A            UNKNOWN                                 UNKNOWN                                 S0002140	-0.0088	0.6264	70.8347
+YPL205C	YPL205C              UNKNOWN                                 UNKNOWN                                 S0006126	0.0059	0.4170	70.6844
+YLR024C	YLR024C              UNKNOWN                                 UNKNOWN; SIMILAR TO UBIQUITIN-PROTEIN LIS0004014	-0.0066	0.4691	70.5677
+YOL011W	YOL011W   PLB3       PHOSPHOLIPID METABOLISM                 PHOSPHOLIPASE B                         S0005371	0.0095	0.6717	70.3543
+YGR040W	YGR040W   KSS1       PHEROMONE SIGNAL TRANSDUCTION           PROTEIN KINASE                          S0003272	0.0067	0.4678	69.9707
+YGR006W	YGR006W   PRP18      MRNA SPLICING                           U5 SNRNP PROTEIN                        S0003238	-0.0071	0.4943	69.6823
+YJL108C	YJL108C              UNKNOWN                                 UNKNOWN                                 S0003644	-0.0113	0.7837	69.6143
+YBR099C	YBR099C              UNKNOWN                                 UNKNOWN                                 S0000303	0.0102	0.6969	68.4068
+YLL059C	YLL059C              UNKNOWN                                 UNKNOWN                                 S0003982	-0.0075	0.5047	67.5043
+YMR068W	YMR068W              UNKNOWN                                 UNKNOWN; SIMILAR TO MOUSE I KAPPA B GAMMS0004672	0.0102	0.6917	67.4879
+YOL073C	YOL073C              UNKNOWN                                 UNKNOWN                                 S0005434	-0.0100	0.6703	66.8292
+YAR066W	YAR066W              UNKNOWN                                 UNKNOWN                                 S0002144	-0.0167	1.1150	66.6619
+YOR393W	YOR393W   ERR1       UNKNOWN                                  ENOLASE HOMOLOG                        S0005920	0.0136	0.8935	65.5547
+YDL139C	YDL139C              UNKNOWN                                 UNKNOWN                                 S0002298	0.0100	0.6331	63.3080
+YLR396C	YLR396C   VPS33      VACUOLAR PROTEIN TARGETING              SEC1 PROTEIN FAMILY                     S0004388	0.0052	0.3301	63.2645
+YKR002W	YKR002W   PAP1       MRNA POLYADENYLATION                    POLY(A) POLYMERASE                      S0001710	-0.0059	0.3725	63.1244
+YNL047C	YNL047C              UNKNOWN                                 UNKNOWN; SIMILAR TO ASK10P              S0004992	-0.0061	0.3767	62.1849
+YGR021W	YGR021W              UNKNOWN                                 UNKNOWN                                 S0003253	0.0090	0.5548	61.8951
+YEL001C	YEL001C              UNKNOWN                                 UNKNOWN                                 S0000727	0.0115	0.7128	61.8434
+YKL075C	YKL075C              UNKNOWN                                 UNKNOWN                                 S0001558	-0.0054	0.3349	61.4847
+YPR133C	YPR133C              UNKNOWN                                 UNKNOWN                                 S0006337	-0.0069	0.4220	61.4740
+YER111C	YER111C   SWI4       CELL CYCLE                              TRANSCRIPTION FACTOR                    S0000913	0.0076	0.4678	61.3070
+YKL220C	YKL220C   FRE2       IRON HOMEOSTASIS                        FERRIC (AND CUPRIC) REDUCTASE           S0001703	0.0084	0.5073	60.5086
+YMR279C	YMR279C              UNKNOWN                                 MAJOR FACILITATOR SUPERFAMILY           S0004892	0.0123	0.7340	59.8338
+YDR237W	YDR237W   MRPL7      PROTEIN SYNTHESIS                       RIBOSOMAL PROTEIN, MITOCHONDRIAL L7     S0002645	-0.0093	0.5540	59.7403
+YNL138W	YNL138W   SRV2       SIGNALING                               ADENYLATE CYCLASE-ASSOCIATED PROTEIN    S0005082	0.0110	0.6512	59.1627
+YDL056W	YDL056W   MBP1       CELL CYCLE                              TRANSCRIPTION FACTOR                    S0002214	-0.0105	0.6122	58.2910
+YJR113C	YJR113C              PROTEIN SYNTHESIS                       RIBOSOMAL PROTEIN, MITOCHONDRIAL S7 (PUTS0003874	0.0090	0.5155	57.5008
+YHR092C	YHR092C   HXT4       TRANSPORT                               HEXOSE PERMEASE                         S0001134	-0.0128	0.7319	57.1882
+YJR089W	YJR089W   BIR1       UNKNOWN                                 UNKNOWN                                 S0003849	-0.0064	0.3635	57.1638
+YMR204C	YMR204C              UNKNOWN                                 UNKNOWN                                 S0004817	0.0078	0.4451	56.9892
+YML020W	YML020W              UNKNOWN                                 UNKNOWN                                 S0004482	0.0074	0.4166	56.5592
+YDR455C	YDR455C              UNKNOWN                                 UNKNOWN                                 S0002863	0.0098	0.5514	55.9918
+YKL186C	YKL186C   MTR2       MRNA EXPORT                             UNKNOWN                                 S0001669	-0.0074	0.4078	55.2476
+YGR031W	YGR031W              UNKNOWN                                 UNKNOWN                                 S0003263	-0.0079	0.4369	55.2257
+YLR358C	YLR358C              UNKNOWN                                 UNKNOWN                                 S0004350	-0.0088	0.4830	55.0834
+YHR212C	YHR212C              UNKNOWN                                 UNKNOWN; IDENTICAL TO YAR060P/RAA19P    S0001255	0.0095	0.5181	54.7816
+YLR309C	YLR309C   IMH1       SECRETION (PUTATIVE)                    UNKNOWN; SUPPRESSES YPT6 TS MUTATION    S0004300	0.0107	0.5762	54.0935
+YOR107W	YOR107W              UNKNOWN                                 UNKNOWN; SIMILAR TO HUMAN G0/G1 SWITCH RS0005633	0.0192	1.0399	54.0872
+YLR027C	YLR027C   AAT2       ASPARTATE METABOLISM                    ASPARTATE AMINOTRANFERASE,              S0004017	0.0094	0.5061	53.9775
+YAR009C	YAR009C              UNKNOWN                                 UNKNOWN                                 S0000067	0.0102	0.5512	53.8736
+YIL084C	YIL084C   SDS3       SILENCING                               (PUTATIVE) TRANSCRIPTIONAL REGULATOR    S0001346	0.0059	0.3119	52.8562
+YGR062C	YGR062C   COX18      RESPIRATION                             REQUIRED FOR ACTIVITY OF MITOCHONDRIAL CS0003294	0.0075	0.3885	52.1015
+YKL027W	YKL027W              UNKNOWN                                 UNKNOWN; SIMILAR TO E. COLI MOLYBDOPTERIS0001510	0.0083	0.4304	52.0618
+YFL040W	YFL040W              UNKNOWN                                 UNKNOWN; SIMILAR TO MEMBERS OF THE SUGARS0001854	0.0117	0.5979	51.0070
+YIL066C	YIL066C   RNR3       DNA REPAIR                              REPAIR-INDUCED RIBONUCLEOTIDE REDUCTASE S0001328	-0.0311	1.5754	50.6848
+YML086C	YML086C   ALO1       D-ERYTHROASCORBIC ACID BIOSYNTHESIS     D-ARABINONO-1,4-LACTONE OXIDASE         S0004551	-0.0103	0.5220	50.6610
+YLR464W	YLR464W              UNKNOWN                                 UNKNOWN; SIMILAR TO OTHER SUBTELOMERICALS0004456	-0.0107	0.5376	50.2716
+YDL206W	YDL206W              UNKNOWN                                 UNKNOWN; SIMILAR TO TRANSPORTER PROTEINSS0002365	0.0268	1.3441	50.1917
+YBR051W	YBR051W              UNKNOWN                                 UNKNOWN                                 S0000255	0.0234	1.1690	49.9243
