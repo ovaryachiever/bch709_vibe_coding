@@ -18,6 +18,17 @@ Usage::
 
 The default input file is downloaded automatically.
 """
+# Biological interpretations (added):
+# 1) Selection on expression, translation and mRNA stability:
+#    GC content affects mRNA secondary structure and codon usage. Highly
+#    expressed yeast genes are often optimized for efficient translation
+#    (preferred codons, tRNA availability) and for transcript stability,
+#    which can produce a GC-rich subpopulation of transcripts.
+# 2) Mutational biases and GC-biased gene conversion (BGC):
+#    Regional differences in mutation/repair and GC-biased gene conversion
+#    during recombination can elevate GC frequency at some loci, producing
+#    neutral or nearly-neutral genomic compartments with higher GC content.
+
 
 import argparse
 import gzip
